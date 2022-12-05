@@ -22,7 +22,7 @@ from utils import movie
 
 
 # Global vars
-TOKEN = 'YOUR_BOT_TOKEN_HERE'
+TOKEN = '5755250579:AAH8GHP9C9jbq-cUU4QcaxGP2Mu6wJZAg7E'
 DATABASE = '/opt/Telegram-IMDbot/database/imdbot_db.sqlite3'
 LOG_FILE = '/var/log/imdbot.log'
 JOB_TIME = (9, 30) # time at which notifications are sent (UTC)
